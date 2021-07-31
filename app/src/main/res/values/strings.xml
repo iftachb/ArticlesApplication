@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ArticlesApplication</string>
+    <string name="show_articles">Show articles</string>
+    <string name="authors">Authors</string>
+    <string name="article_image">Article Image</string>
+    <string name="title">Title :</string>
+    <string name="author_image">Author Image</string>
+    <string name="category">Category</string>
+    <string name="name">Name</string>
+</resources>
